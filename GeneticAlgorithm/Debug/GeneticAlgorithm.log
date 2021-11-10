@@ -1,5 +1,0 @@
-﻿  Dot.cpp
-  Population.cpp
-c:\users\dušan\source\repos\geneticalgorithm\geneticalgorithm\population.cpp(18): warning C4018: '>': signed/unsigned mismatch
-  Generating Code...
-  GeneticAlgorithm.vcxproj -> c:\Users\Dušan\source\repos\GeneticAlgorithm\Debug\GeneticAlgorithm.exe
